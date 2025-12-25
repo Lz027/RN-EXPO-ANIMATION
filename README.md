@@ -1,3 +1,5 @@
+# By Ahmed Baghni - 20230040030
+
 # Tinder Card Swipe App - React Native Animation
 
 A modern Tinder-like card swipe application built with React Native, Expo, and smooth animations using **react-native-reanimated** and **react-native-gesture-handler**.
