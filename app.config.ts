@@ -12,7 +12,7 @@ const schemeFromBundleId = `manus${timestamp}`;
 
 const env = {
   // App branding - update these values directly (do not use env vars)
-  appName: "RN Expo Animation - Tinder Card Swipe",
+  appName: "Tinder Swipe",
   appSlug: "rn_expo_animation",
   // S3 URL of the app logo - set this to the URL returned by generate_image when creating custom logo
   // Leave empty to use the default icon from assets/images/icon.png

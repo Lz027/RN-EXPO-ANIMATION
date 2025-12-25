@@ -1,0 +1,58 @@
+import { Card } from '@/types/card';
+
+export const SAMPLE_CARDS: Card[] = [
+  {
+    id: '1',
+    name: 'Sarah',
+    age: 28,
+    location: 'San Francisco, CA',
+    bio: 'Adventure seeker, coffee lover, and dog enthusiast. Always up for spontaneous road trips!',
+    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=500&fit=crop',
+    rating: 4.8,
+  },
+  {
+    id: '2',
+    name: 'Emma',
+    age: 26,
+    location: 'New York, NY',
+    bio: 'Artist and photographer. Passionate about creating meaningful connections and exploring new places.',
+    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop',
+    rating: 4.9,
+  },
+  {
+    id: '3',
+    name: 'Jessica',
+    age: 29,
+    location: 'Los Angeles, CA',
+    bio: 'Fitness enthusiast and wellness coach. Love hiking, yoga, and healthy cooking.',
+    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=500&fit=crop',
+    rating: 4.7,
+  },
+  {
+    id: '4',
+    name: 'Michelle',
+    age: 27,
+    location: 'Austin, TX',
+    bio: 'Tech enthusiast and startup founder. Passionate about innovation and entrepreneurship.',
+    image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=500&fit=crop',
+    rating: 4.6,
+  },
+  {
+    id: '5',
+    name: 'Lisa',
+    age: 30,
+    location: 'Seattle, WA',
+    bio: 'Bookworm and coffee connoisseur. Love cozy evenings and meaningful conversations.',
+    image: 'https://images.unsplash.com/photo-1517841905240-472988babdf0?w=400&h=500&fit=crop',
+    rating: 4.8,
+  },
+  {
+    id: '6',
+    name: 'Rachel',
+    age: 25,
+    location: 'Miami, FL',
+    bio: 'Beach lover and travel blogger. Always planning the next adventure!',
+    image: 'https://images.unsplash.com/photo-1519046904884-53103b34b206?w=400&h=500&fit=crop',
+    rating: 4.9,
+  },
+];
